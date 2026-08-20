@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/benchmark_all.dir/benchmarks/benchmark_all.cpp.o -o benchmark_all  libindex_engine.a

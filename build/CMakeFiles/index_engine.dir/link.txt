@@ -1,0 +1,2 @@
+/usr/bin/ar qc libindex_engine.a CMakeFiles/index_engine.dir/src/sorted_array_index.cpp.o CMakeFiles/index_engine.dir/src/chained_hash_index.cpp.o CMakeFiles/index_engine.dir/src/linear_probing_index.cpp.o CMakeFiles/index_engine.dir/src/extendible_hash_index.cpp.o CMakeFiles/index_engine.dir/src/bitmap_index.cpp.o CMakeFiles/index_engine.dir/src/btree_index.cpp.o CMakeFiles/index_engine.dir/src/bplus_tree_index.cpp.o CMakeFiles/index_engine.dir/src/rtree_index.cpp.o
+/usr/bin/ranlib libindex_engine.a
